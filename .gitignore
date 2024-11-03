@@ -1,2 +1,6 @@
 house-comp-venv/
-**/**/__pycache__/
+__pycache__/
+00-house-competition-starting-code/
+01-house-competition-more-preprocessing/
+02-house-competition-encoding/
+03-house-competition-model-stacking/
